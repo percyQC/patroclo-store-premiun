@@ -22,7 +22,7 @@
 
 # comandos mas usados
 - php artisan make:controller CategoriaController
-- php artisan make:model Categoria- php artisan make:model Categoria
+- php artisan make:model Categoria
 
 # NOMBRE Y APELLIDOS
 - Homero Percy Quispe Coaquira
