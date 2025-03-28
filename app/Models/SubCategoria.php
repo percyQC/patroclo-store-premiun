@@ -14,5 +14,9 @@ class SubCategoria extends Model
         'imagen_url'
     ];
 
+    public function categoria(){
+        return $this->belongsTo(Categoria::class,'id_categoria');
+    }
+
     public $timestamps = false;
 }
